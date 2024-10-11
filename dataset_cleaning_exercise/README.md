@@ -1,0 +1,1 @@
+This is a simple data processing exercise for my Big Data Analytics university course.
