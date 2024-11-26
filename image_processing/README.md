@@ -1,0 +1,1 @@
+Just a very small example to checkout image processing in python, not an ML exercise.
